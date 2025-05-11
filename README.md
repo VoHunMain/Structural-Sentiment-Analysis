@@ -22,7 +22,7 @@ Structured sentiment analysis goes beyond traditional sentiment classification b
 ## Model Architecture
 
 ![Model Architecture](https://via.placeholder.com/800x400?text=Structured+Sentiment+Analysis+Architecture)
-![Model Architecture](https://via.placeholder.com/800x400?raw=true)
+
 The model consists of several components:
 
 1. **Base Encoder**: XLM-RoBERTa produces contextualized token representations
